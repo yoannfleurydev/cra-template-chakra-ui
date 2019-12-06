@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-chakra-ui",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The template for Create React App with Chakra UI",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoannfleurydev/cra-template-chakra-ui.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannfleurydev/cra-template-chakra-ui/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
