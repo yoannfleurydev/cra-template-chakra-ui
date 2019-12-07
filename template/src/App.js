@@ -9,10 +9,11 @@ import {
   Text
 } from "@chakra-ui/core";
 import { MdStar } from "react-icons/md";
+import { customTheme } from "./theme";
 
 function App() {
   return (
-    <ThemeProvider>
+    <ThemeProvider theme={customTheme}>
       <CSSReset />
 
       <Box
@@ -26,13 +27,13 @@ function App() {
       >
         <Image rounded="md" src="https://bit.ly/2k1H1t6" />
         <Flex align="baseline" mt={2}>
-          <Badge variantColor="pink">Plus</Badge>
+          <Badge variantColor="brand">Plus</Badge>
           <Text
             ml={2}
             textTransform="uppercase"
             fontSize="sm"
             fontWeight="bold"
-            color="pink.800"
+            color="brand.800"
           >
             Verified &bull; Cape Town
           </Text>
