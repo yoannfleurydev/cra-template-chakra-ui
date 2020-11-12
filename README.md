@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS NOT USEFUL ANYMORE
+# CHAKRA UI RELEASED ITS OFFICIAL CRA TEMPLATE
+# CHECK https://www.npm.im/@chakra-ui/cra-template
+
 # Create React App Chakra UI Template
 
 This is a template to get started with [Chakra UI](https://chakra-ui.com/)
